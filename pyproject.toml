@@ -1,0 +1,14 @@
+[project]
+name = "Paint & Email Agent"
+version = "0.1.0"
+description = "Prompt Improvements, JSON Parsing and more!"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "google-genai>=1.10.0",
+    "mcp>=1.6.0",
+    "python-dotenv>=1.1.0",
+    "pywin32>=310",
+    "pywinauto>=0.6.9",
+    "psutil"
+]
