@@ -1,5 +1,5 @@
 [project]
-name = "Paint & Email Agent"
+name = "Paint-Email-Agent"
 version = "0.1.0"
 description = "Prompt Improvements, JSON Parsing and more!"
 readme = "README.md"

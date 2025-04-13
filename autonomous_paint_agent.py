@@ -190,9 +190,6 @@ async def main():
 
                     # Extract tool names from the tools_result
                     tool_names = [tool.name for tool in tools_result.tools]  # Use dot notation to access the name attribute
-
-                    # Print the tool names for debugging
-                    print("Available tools:", tool_names)
                     
                     # Create a prompt that will guide the LLM to control Paint and send emails
                     system_prompt = f"""You are an agent that can control Microsoft Paint and send emails.
