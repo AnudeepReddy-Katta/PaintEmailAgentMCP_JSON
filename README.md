@@ -4,7 +4,6 @@ An intelligent agent that uses Google's Gemini 1.5 Flash model to control Micros
 
 ## 📁 Project Structure
 ```
-assignment/
 ├── .env                    # Environment variables
 ├── .gitignore             # Git ignore rules
 ├── .python-version        # Python version specification
